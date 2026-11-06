@@ -1,0 +1,15 @@
+{
+  "name": "لعبة الجمعة",
+  "short_name": "لعبة الجمعة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1b2a4a",
+  "theme_color": "#1b2a4a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
